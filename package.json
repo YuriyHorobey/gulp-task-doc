@@ -1,0 +1,25 @@
+{
+  "name": "gulp-task-doc",
+  "version": "0.0.1",
+  "description": "Parses gulpfile and extracts all the tasks. Produces basic Markdown file based on source comments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriyHorobey/gulp-plugin.git"
+  },
+  "keywords": [
+    "gulp",
+    "utility",
+    "task",
+    "markdown"
+  ],
+  "author": "Yuriy Horobey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriyHorobey/gulp-plugin/issues"
+  },
+  "homepage": "https://github.com/YuriyHorobey/gulp-plugin#readme"
+}
